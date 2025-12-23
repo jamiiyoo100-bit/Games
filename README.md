@@ -1,7 +1,7 @@
 # Games
 we offer different games for our users
 . APKBOOM
-<a href="https://apkboom.net/">APKBOOM</> is one of the most trusted APK platforms worldwide, including Pakistan. It is known for its strong security standards and verified uploads.
+<a href="https://apkboom.net/">APKBOOM</a> is one of the most trusted APK platforms worldwide, including Pakistan. It is known for its strong security standards and verified uploads.
 
 Why APKBOOM is reliable:
 
